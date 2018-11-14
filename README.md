@@ -10,10 +10,10 @@ Steps to install and create a virtual environment.
     python -m pip install flask
 3.  Create a folder in the virtual environment. Type the command:
     python -m virtualenv my_project
-    (give any name for the folder).\
+    (give any name for the folder).
 4.  To activate the virtual environment type the command :
     my_project\Scripts\activate
-5.  Write a simple web app code in the editor and save it with .py extension.
+5.  Write a simple web app code in the editor or copy the hello.py
 6.  To run the code , first start the server. Type the command: python -m http.server
     Now, the server will be running. Now run the code , type the command :
     python -m filename.py
